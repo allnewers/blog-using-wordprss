@@ -1,0 +1,27 @@
+@font-face {
+	font-family: DroidNaskh;
+	src: url('DroidNaskh-Regular.ttf'),
+	     url('DroidNaskh-Regular.eot');
+	font-weight:100;
+}
+
+@font-face {
+	font-family: DroidNaskh;
+	src: url('DroidNaskh-Bold.ttf'),
+	     url('DroidNaskh-Bold.eot');
+	font-weight:700;
+}
+
+@font-face {
+	font-family: DroidKufi;
+	src: url('DroidKufi-Regular.ttf'),
+	     url('DroidKufi-Regular.eot');
+	font-weight:100;
+}
+
+@font-face {
+	font-family: DroidKufi;
+	src: url('DroidKufi-Bold.ttf'),
+	     url('DroidKufi-Bold.eot');
+	font-weight:700;
+}
